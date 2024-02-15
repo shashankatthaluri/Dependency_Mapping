@@ -1,4 +1,4 @@
-## 🧭 Dependency Map Project 
+# 🧭 Dependency Map Project 
 This project aims to create a visual map of dependencies between concepts. The map will help users navigate relationships and plan their learning.
 
 ## 🤔 What it does 
